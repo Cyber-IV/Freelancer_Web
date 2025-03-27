@@ -8,3 +8,6 @@ cd <project_directory>
 
 # Usage
 open index.html
+
+# Languages Used
+HMTL, CSS
